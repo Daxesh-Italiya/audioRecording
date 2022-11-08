@@ -28,4 +28,8 @@ const CONSTANT = {
   ],
 };
 
+export const Token = {
+  code: "",
+};
+
 export default CONSTANT;
