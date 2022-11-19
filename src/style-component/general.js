@@ -6,9 +6,9 @@ const BodyStyled = styled.div`
   line-height: 30px;
   padding: 0;
   word-spacing: 0px;
-  background: ${theme.lightTheme.background.primary};
+  background: ${theme.lightTheme.color.background};
   min-height: 100vh;
-  color: ${theme.lightTheme.secondary.font};
+  color: ${theme.lightTheme.color.font};
 `;
 
 export default BodyStyled;
